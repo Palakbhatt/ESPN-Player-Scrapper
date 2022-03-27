@@ -1,0 +1,25 @@
+[
+    {
+    "name": "Steve",
+    "last Name": "Rogers",
+    "isAvenger": true,
+    "friends": ["Tony", "Peter", "Bruce"],
+    "age": 102,
+    "address":{
+        "city": "Brooklyn",
+        "state": "New York"
+    }
+},
+{
+    "name": "Tony",
+    "last Name": "Stark",
+    "isAvenger": true,
+    "friends": ["Tony", "Peter", "Bruce"],
+    "age": 40,
+    "address":{
+        "city": "Brooklyn",
+        "state": "New York"
+    }
+}
+
+]
